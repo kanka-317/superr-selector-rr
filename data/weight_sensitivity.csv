@@ -1,0 +1,21 @@
+player_name,player_type,top10_inclusion_rate,modal_rank,min_sim_rank,max_sim_rank
+Ashutosh Sharma,Batter,1.0,1,1,4
+Naman Dhir,Batter,1.0,2,1,5
+Jason Holder,Batter,1.0,3,2,6
+Shashank Singh,Batter,1.0,4,3,7
+Andre Russell,Batter,0.992,5,4,8
+Rashid Khan,Batter,0.996,6,5,9
+Mahendra Singh Dhoni,Batter,0.98,7,6,10
+Rajat Patidar,Batter,0.904,8,7,11
+Shadab Khan,Batter,0.684,9,8,12
+Rahul Tewatia,Batter,0.712,10,9,13
+Jasprit Bumrah,Bowler,1.0,1,1,4
+Craig Young,Bowler,1.0,2,1,5
+Varun Chakravarthy,Bowler,1.0,3,2,6
+Sunil Narine,Bowler,1.0,4,3,7
+Ravindra Jadeja,Bowler,1.0,5,4,8
+Mohsin Khan,Bowler,0.976,6,5,9
+Akeal Hosein,Bowler,0.848,7,6,10
+Abrar Ahmed,Bowler,0.752,8,7,11
+Benjamin Sears,Bowler,0.604,9,8,12
+Mustafizur Rahman,Bowler,0.54,10,9,13

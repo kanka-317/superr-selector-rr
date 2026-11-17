@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Raw Data (Proprietary RR files - DO NOT COMMIT)
+*.csv.gz
+*ball_by_ball.csv
+*matches.csv
+*playing_eleven.csv
+*teams.csv
+*competitions.csv
+*competition_team_player_mapping.csv
+6af3166e7b922_data_pack/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.bak
+

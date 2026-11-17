@@ -1,0 +1,122 @@
+{
+  "Ashutosh Sharma": {
+    "role": "Designated Death Finisher (No. 7 / Impact Sub)",
+    "fit": "Solves RR's historic finishing dilemma; hits elite 145+ kph pace at a 185.9 strike rate at the death without accumulating dot balls.",
+    "strengths": "Peerless bat speed, calm bat flow under 12+ RRR, clears straight boundaries.",
+    "weaknesses": "Can occasionally edge early balls against turning wrist spin."
+  },
+  "Naman Dhir": {
+    "role": "High-Tempo Middle-Order Float (No. 4/5)",
+    "fit": "Counters powerplay collapses; 360-degree boundary scoring (185.5 SR, 38.5 Avg) against high pace and finger spin.",
+    "strengths": "Fearless counter-puncher, innovative scoop and ramp shots under pressure.",
+    "weaknesses": "Needs brief 3-4 ball sighter on tacky subcontinental tracks."
+  },
+  "Jason Holder": {
+    "role": "Lower-Order Crisis Stabilizer (No. 7/8)",
+    "fit": "Provides towering lower-order boundary power (169.8 SR, +54.7 delta) and elite multi-skill balance in tight chases.",
+    "strengths": "Long reach counteracts wide yorkers; exceptional veteran temperament.",
+    "weaknesses": "Vulnerable to high-velocity short-pitched bodyline bowling."
+  },
+  "Shashank Singh": {
+    "role": "Composed Chase Conductor (No. 6)",
+    "fit": "Brings pristine match awareness to steep chases; 170.4 SR with a low 24.6% dot ball percentage.",
+    "strengths": "Dominant straight-bat placement, ice-cool demeanor in last-over chases.",
+    "weaknesses": "Moderately reliant on pace on the ball."
+  },
+  "Andre Russell": {
+    "role": "Match-Breaking Death Enforcer (No. 6)",
+    "fit": "Supreme raw power generating +129.3 Runs Above Expected and +1.343 WPA; strikes sheer psychological fear into opposition death bowlers.",
+    "strengths": "Highest boundary percentage (27.1%) in tournament history under pressure.",
+    "weaknesses": "High dot ball rate (42.4%) when searching exclusively for maximums."
+  },
+  "Rashid Khan": {
+    "role": "Lower-Order Pinch-Hitter & Wildcard (No. 8)",
+    "fit": "Transforms seemingly lost chases with rapid 10-ball 25-run bursts using his trademark snake shot.",
+    "strengths": "Unorthodox wrist speed against yorkers and full tosses.",
+    "weaknesses": "Lower defensive average (16.2)."
+  },
+  "Mahendra Singh Dhoni": {
+    "role": "Tactical Chase Benchmark & Crisis Finisher (No. 7)",
+    "fit": "Demonstrates +63.7 SR delta in high pressure (172.2 SR); unmatched target calculation and tactical acumen.",
+    "strengths": "Legendary composure, targets the opponent's fifth bowler with mathematical certainty.",
+    "weaknesses": "Reduced agility in running hard twos."
+  },
+  "Rajat Patidar": {
+    "role": "Middle-Overs Spin Destroyer (No. 4)",
+    "fit": "Elite spin demolisher averaging 41.75 at a 169.8 SR under collapse pressure; shields Sanju Samson from spin choke.",
+    "strengths": "Picks spin lengths instantly; huge sixes over mid-wicket against turn.",
+    "weaknesses": "Can be troubled by 145+ kph express pace on hard lengths."
+  },
+  "Shadab Khan": {
+    "role": "Versatile Middle-Order Floater (No. 5/6)",
+    "fit": "Bridges early collapses to death acceleration with high strike-rotation and a 170.3 pressure SR.",
+    "strengths": "Excellent running between wickets and rapid boundary placement.",
+    "weaknesses": "Early vulnerability to wrong-uns."
+  },
+  "Rahul Tewatia": {
+    "role": "Designated Ice-Finisher (No. 7)",
+    "fit": "Proven hero in RR colors; delivers 177.4 SR (+60.7 delta) and +1.437 WPA when requiring 12+ runs in the final over.",
+    "strengths": "Unfazed by extreme chase math; elite leg-side sweeps and scoops.",
+    "weaknesses": "Prefers bowling pace; quieter against high-quality wide yorker specialists."
+  },
+  "Jasprit Bumrah": {
+    "role": "Primary Strike & Death Lockdown Weapon",
+    "fit": "The undisputed benchmark of global cricket; bowls overs 17 and 19 to shut down chases with a 6.89 economy and 15.3 SR.",
+    "strengths": "Pinpoint yorkers, disguised slower balls, unplayable angles.",
+    "weaknesses": "None identifiable in the dataset."
+  },
+  "Craig Young": {
+    "role": "High-Impact Breakthrough Seamer",
+    "fit": "Seam presentation yielding a lethal 11.9 strike rate and 7.51 economy in high pressure (+1.35 tighter delta).",
+    "strengths": "Aggressive skiddy bounce inducing false strokes from aggressive openers.",
+    "weaknesses": "Modest raw ball sample size."
+  },
+  "Varun Chakravarthy": {
+    "role": "Middle-Overs Strangler & Death Spinner",
+    "fit": "Concedes only 6.37 economy (+1.82 delta) with 33 wickets and 46% dot balls; gives RR an impenetrable middle-phase clamp.",
+    "strengths": "High release point and rapid mystery spin variations.",
+    "weaknesses": "Heavy dew slightly affects grip on leg-cutter."
+  },
+  "Sunil Narine": {
+    "role": "Boundary-Suppressing Anchor Spinner",
+    "fit": "Total boundary denial (only 9.9% boundaries allowed) and a 6.02 economy under pressure; forces batters to attack partner bowlers.",
+    "strengths": "Unrelenting accuracy outside off stump.",
+    "weaknesses": "Slightly lower wicket strike rate than Chakravarthy."
+  },
+  "Ravindra Jadeja": {
+    "role": "Defensive Control Finger Spinner",
+    "fit": "Delivers overs in under 2 minutes with a 6.03 economy (+1.98 delta) and 7.9% boundary rate; chokes left-right balance.",
+    "strengths": "Darting stump-to-stump trajectories giving zero extension.",
+    "weaknesses": "Less effective on flat tracks with zero grip."
+  },
+  "Mohsin Khan": {
+    "role": "Death-Overs Left-Arm Seam Specialist",
+    "fit": "Provides the steep left-arm angle RR values alongside Boult; executes yorkers and off-cutters under pressure (7.89 economy).",
+    "strengths": "High release angle and natural angle across right-handers.",
+    "weaknesses": "Injury-prone workload management required."
+  },
+  "Akeal Hosein": {
+    "role": "Powerplay Defensive Clamp",
+    "fit": "Master of pace modulation conceding only 6.33 economy and 10.2% boundaries; locks down early powerplays.",
+    "strengths": "New-ball drift and trajectory control.",
+    "weaknesses": "Less threatening against set death batters."
+  },
+  "Abrar Ahmed": {
+    "role": "Wicket-Taking Middle-Phase Mystery Spinner",
+    "fit": "Takes 14 wickets at 14.86 SR and 6.32 economy under pressure; breaks stubborn partnerships before the death overs.",
+    "strengths": "Devastating googly and carrom ball deception.",
+    "weaknesses": "Occasional loose boundary ball when over-flighting."
+  },
+  "Benjamin Sears": {
+    "role": "High-Pace Middle/Death Enforcer",
+    "fit": "Generates 148+ kph skid rattling lower-order batters with a 7.05 economy and 14.8 SR (+1.29 delta).",
+    "strengths": "Raw express pace that rushes pull shots.",
+    "weaknesses": "Higher boundary conceded % (16.2%) if yorker length is missed."
+  },
+  "Mustafizur Rahman": {
+    "role": "Death Cutter & Variation Specialist",
+    "fit": "Highest pressure sample in dataset (616 balls, 42 wickets, 7.51 economy, +186.0 EAE); past RR star tailor-made for slow Jaipur wickets.",
+    "strengths": "World's most deceptive off-cutter and cross-seam bouncers.",
+    "weaknesses": "More predictable on true, high-bouncing surfaces."
+  }
+}
